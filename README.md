@@ -14,3 +14,7 @@
 ## 🌱 Interests
 - 📚 Nghe nhạc, nghiên cứu tìm tòi những cái mới  
 
+## 📫 Contact
+- Email: uythachgia@gmail.com  
+- Phone: 0972844867  
+- GitHub: [[link profile]](https://github.com/gia-uy)
