@@ -18,6 +18,7 @@
 - Email: uythachgia@gmail.com  
 - Phone: 0972844867  
 - GitHub: [[link profile]](https://github.com/gia-uy)
+- GitHub Page: https://gia-uy.github.io/
 
 ## Dự án học tập
 - Mini App Quản lý chấm công: ([Link Dự Án](https://github.com/Lanne-0402/Nhap-mon-CNPM.git)]
